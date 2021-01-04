@@ -20,6 +20,7 @@ import{LoginComponent} from '././login/login.component';
 
 import{HttpClientModule, HTTP_INTERCEPTORS} from '@angular/common/http';
 import { JwtInterceptor } from './security/jwt.interseptor';
+import { NavMenuComponent } from './nav-menu/nav-menu.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { JwtInterceptor } from './security/jwt.interseptor';
     LoginComponent,
     ClienteComponent,
     DialogClienteComponent,
-    DialogDeleteComponent
+    DialogDeleteComponent,
+    NavMenuComponent
 
   ],
   imports: [

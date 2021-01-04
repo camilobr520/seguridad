@@ -1,23 +1,33 @@
 <mat-card>
-<mat-card-title>Inicio de sesión</mat-card-title>
-<h1 class="bg-success">boostrap</h1>
-<mat-card-content>
-    <form [formGroup]="loginForm" (ngSubmit)="login()">
-        <p>
-            <mat-form-field>
-                <input type="text" formControlName="email" matInput placeholder="Email">
-            </mat-form-field>
-           </p>
-           <p>
-            <mat-form-field>
-                <input type="password" formControlName="password" matInput placeholder="Contraseña">
-            </mat-form-field>
-           </p>
-           <div>
-               <button mat-raised-button type="submit" [disabled]="!loginForm.valid">Iniciar sesión</button>
-           </div>
+    <!-- gx-0 significa gutters 0, osea sin pading interno en el row -->
+    <div class="row gx-0 justify-content-around"> 
+        <div class="col-md-6 col-sm-12 ">
+            <img src="../../assets/imagenes/cohete2.png" alt="" class="img-fluid">
+        </div>
+        <div id="content" class="col-md-6 col-sm-12 position-relative" >
+            
+                <div class="position-absolute top-50 start-50 translate-middle"  >
+                    <mat-card-title> <span class="text-light ">Inicio de sesión</span></mat-card-title>
+                    <form [formGroup]="loginForm" (ngSubmit)="login()" >
+                        <p>
+                            <mat-form-field color="primary">
+                                <input type="text"  class="text-light" formControlName="email" matInput placeholder="Email">
+                            </mat-form-field>
+                           </p>
+                           <p>
+                            <mat-form-field>
+                                <input type="password" formControlName="password" matInput placeholder="Contraseña">
+                            </mat-form-field>
+                           </p>
+                           <div>
+                               <button mat-raised-button class="text-light" style="background-color: #61d1c1;" type="submit"  [disabled]="!loginForm.valid">Iniciar sesión</button>
+                           </div>
+                
+                    </form>
+                </div>
+                
+            
+        </div>
+    </div>
 
-    </form>
-
-</mat-card-content>
 </mat-card>

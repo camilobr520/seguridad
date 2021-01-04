@@ -3,4 +3,46 @@ mat-card{
     width: 80%;
     display: block;
     margin-top: 2rem;
+    padding: 0%;
 }
+#content{
+    background-color:#2e3e51;
+    align-items: center;
+    justify-self: center;
+}
+
+
+/* colores antes del foco */
+ 
+::ng-deep .mat-form-field .mat-input-element {
+        color: white;
+    }
+    ::ng-deep .mat-form-field .mat-form-field-label {
+        color: white;
+    }
+    ::ng-deep .mat-form-field .mat-form-field-underline {
+        background-color: white;
+    }
+    ::ng-deep .mat-form-field .mat-form-field-ripple {
+        background-color: white;
+    }
+    ::ng-deep .mat-form-field .mat-form-field-required-marker {
+        color: white;
+    }
+
+    /* colores despues del foco */
+    ::ng-deep .mat-form-field.mat-focused .mat-input-element {
+        color: white;
+    }
+    ::ng-deep .mat-form-field.mat-focused .mat-form-field-label {
+        color: white;
+    }
+    ::ng-deep .mat-form-field.mat-focused .mat-form-field-underline {
+        background-color: white;
+    }
+    ::ng-deep .mat-form-field.mat-focused .mat-form-field-ripple {
+        background-color: white;
+    }
+    ::ng-deep .mat-form-field.mat-focused .mat-form-field-required-marker {
+        color: white;
+    }
