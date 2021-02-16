@@ -1,0 +1,12 @@
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.deps.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.runtimeconfig.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.csprojAssemblyReference.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Datos\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.genruntimeconfig.cache

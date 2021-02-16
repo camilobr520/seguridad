@@ -1,0 +1,39 @@
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.deps.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.genruntimeconfig.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.deps.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.deps.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csprojAssemblyReference.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.csproj.CopyComplete

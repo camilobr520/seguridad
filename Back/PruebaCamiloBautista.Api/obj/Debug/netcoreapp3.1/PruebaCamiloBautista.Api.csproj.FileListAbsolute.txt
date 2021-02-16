@@ -1,0 +1,194 @@
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.exe
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.deps.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.Manifest.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.xml
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PruebaCamiloBautista.Api.styles.css
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.genruntimeconfig.cache
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CopyComplete
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.exe
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.deps.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.Manifest.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.xml
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PruebaCamiloBautista.Api.styles.css
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CopyComplete
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\source\repos\AngularCli-net core-prototipe\Back\PruebaCamiloBautista\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csprojAssemblyReference.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.exe
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.deps.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Dominio.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.Manifest.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\staticwebassets\PruebaCamiloBautista.Api.StaticWebAssets.xml
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PruebaCamiloBautista.Api.styles.css
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.csproj.CopyComplete
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\obj\Debug\netcoreapp3.1\PruebaCamiloBautista.Api.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\PruebaCamiloBautista.Datos.pdb
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Camilo\Desktop\Prueba_DigitalWorld\Back\PruebaCamiloBautista.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
